@@ -1,0 +1,7 @@
+C:\Users\krzys\source\repos\MaPoProj\MaPoProj\bin\Debug\MaPoProj.exe.config
+C:\Users\krzys\source\repos\MaPoProj\MaPoProj\bin\Debug\MaPoProj.exe
+C:\Users\krzys\source\repos\MaPoProj\MaPoProj\bin\Debug\MaPoProj.pdb
+C:\Users\krzys\source\repos\MaPoProj\MaPoProj\obj\Debug\MaPoProj.csproj.AssemblyReference.cache
+C:\Users\krzys\source\repos\MaPoProj\MaPoProj\obj\Debug\MaPoProj.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\MaPoProj\MaPoProj\obj\Debug\MaPoProj.exe
+C:\Users\krzys\source\repos\MaPoProj\MaPoProj\obj\Debug\MaPoProj.pdb

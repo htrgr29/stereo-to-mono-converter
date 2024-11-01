@@ -1,0 +1,2 @@
+LIBRARY MaPoAsm
+EXPORTS MyProc1
